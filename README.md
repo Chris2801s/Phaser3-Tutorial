@@ -43,3 +43,6 @@ by default).
 ## Rollup Template
 Rollup Template used from Richard Davey
 https://github.com/photonstorm/phaser3-typescript-project-template
+
+Projekt Based on the Modern Javascript Phaser 3 Tutorial from Tommy Leung
+https://blog.ourcade.co/posts/2020/make-first-phaser-3-game-modern-javascript-part1/
